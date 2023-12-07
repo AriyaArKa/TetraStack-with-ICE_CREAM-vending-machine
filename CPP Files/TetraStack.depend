@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1695680847 source:c:\users\hp\onedrive\desktop\tetrastack\blockposition.cpp
+	"blockposition.h"
+	<bits/stdc++.h>
+
+1695680846 c:\users\hp\onedrive\desktop\tetrastack\blockposition.h
+	<bits/stdc++.h>
+
+1695771168 source:c:\users\hp\onedrive\desktop\tetrastack\blockcolor.cpp
+	"blockcolor.h"
+	<bits/stdc++.h>
+
+1695771169 c:\users\hp\onedrive\desktop\tetrastack\blockcolor.h
+	<raylib.h>
+	<vector>
+	<bits/stdc++.h>
+
+1695771171 source:c:\users\hp\onedrive\desktop\tetrastack\gridline.cpp
+	"Gridline.h"
+	"blockcolor.h"
+	<bits/stdc++.h>
+
+1695771541 c:\users\hp\onedrive\desktop\tetrastack\gridline.h
+	<vector>
+	<raylib.h>
+	<bits/stdc++.h>
+
+1695771173 source:c:\users\hp\onedrive\desktop\tetrastack\gridblock.cpp
+	"Gridblock.h"
+	<bits/stdc++.h>
+
+1695779139 c:\users\hp\onedrive\desktop\tetrastack\gridblock.h
+	<vector>
+	<map>
+	"blockposition.h"
+	"blockcolor.h"
+	<bits/stdc++.h>
+
+1695680847 source:c:\users\hp\onedrive\desktop\tetrastack\allblocks.cpp
+	"Gridblock.h"
+	"blockposition.h"
+	<bits/stdc++.h>
+
+1695771472 source:c:\users\hp\onedrive\desktop\tetrastack\control.cpp
+	"control.h"
+	<random>
+	<bits/stdc++.h>
+
+1695778982 c:\users\hp\onedrive\desktop\tetrastack\control.h
+	"Gridline.h"
+	"allblocks.cpp"
+	<bits/stdc++.h>
+
+1695680847 c:\users\hp\onedrive\desktop\tetrastack\allblocks.cpp
+	"Gridblock.h"
+	"blockposition.h"
+	<bits/stdc++.h>
+
+1695782581 source:c:\users\hp\onedrive\desktop\tetrastack\main.cpp
+	<raylib.h>
+	"control.h"
+	"blockcolor.h"
+	<bits/stdc++.h>
+	<conio.h>
+	<chrono>
+	<thread>
+
+1695685130 source:c:\users\hp\onedrive\desktop\tetrastack\vending_machine.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	<chrono>
+	<thread>
+
+1695680847 source:c:\users\hp\onedrive\desktop\1-2 project\tetrastack\allblocks.cpp
+	"Gridblock.h"
+	"blockposition.h"
+	<bits/stdc++.h>
+
+1695779139 c:\users\hp\onedrive\desktop\1-2 project\tetrastack\gridblock.h
+	<vector>
+	<map>
+	"blockposition.h"
+	"blockcolor.h"
+	<bits/stdc++.h>
+
+1695680846 c:\users\hp\onedrive\desktop\1-2 project\tetrastack\blockposition.h
+	<bits/stdc++.h>
+
+1695771169 c:\users\hp\onedrive\desktop\1-2 project\tetrastack\blockcolor.h
+	<raylib.h>
+	<vector>
+	<bits/stdc++.h>
+
+1695771168 source:c:\users\hp\onedrive\desktop\1-2 project\tetrastack\blockcolor.cpp
+	"blockcolor.h"
+	<bits/stdc++.h>
+
+1695680847 source:c:\users\hp\onedrive\desktop\1-2 project\tetrastack\blockposition.cpp
+	"blockposition.h"
+	<bits/stdc++.h>
+
+1695771472 source:c:\users\hp\onedrive\desktop\1-2 project\tetrastack\control.cpp
+	"control.h"
+	<random>
+	<bits/stdc++.h>
+
+1695778982 c:\users\hp\onedrive\desktop\1-2 project\tetrastack\control.h
+	"Gridline.h"
+	"allblocks.cpp"
+	<bits/stdc++.h>
+
+1695771541 c:\users\hp\onedrive\desktop\1-2 project\tetrastack\gridline.h
+	<vector>
+	<raylib.h>
+	<bits/stdc++.h>
+
+1695680847 c:\users\hp\onedrive\desktop\1-2 project\tetrastack\allblocks.cpp
+	"Gridblock.h"
+	"blockposition.h"
+	<bits/stdc++.h>
+
+1695771173 source:c:\users\hp\onedrive\desktop\1-2 project\tetrastack\gridblock.cpp
+	"Gridblock.h"
+	<bits/stdc++.h>
+
+1695771171 source:c:\users\hp\onedrive\desktop\1-2 project\tetrastack\gridline.cpp
+	"Gridline.h"
+	"blockcolor.h"
+	<bits/stdc++.h>
+
+1701183156 source:c:\users\hp\onedrive\desktop\1-2 project\tetrastack\main.cpp
+	<raylib.h>
+	"control.h"
+	"blockcolor.h"
+	<bits/stdc++.h>
+	<conio.h>
+	<chrono>
+	<thread>
+
